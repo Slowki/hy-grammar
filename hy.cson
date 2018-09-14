@@ -90,7 +90,7 @@
         'name': 'constant.language.nil.hy'
       }
       {
-        'match': '(true|false)'
+        'match': '(True|False)'
         'name': 'constant.language.boolean.hy'
       }
       {
@@ -387,3 +387,4 @@
         'include': '$self'
       }
     ]
+
